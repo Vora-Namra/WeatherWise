@@ -1,6 +1,6 @@
 # WeatherWise
 
-WeatherWise is a comprehensive weather app designed to provide you with detailed weather information at your fingertips. By simply granting access to your location, WeatherWise fetches all the necessary details like wind speed, cloud cover, humidity, and more. You can also search for specific areas or cities and check the weather there.
+WeatherWise is a comprehensive weather app that delivers detailed weather information directly to your device. By granting access to your location, WeatherWise gathers essential data such as wind speed, cloud cover, humidity, temperature, and more. You can also search for weather conditions in specific areas or cities, ensuring you stay informed no matter where you are.
 
 ## Features
 
