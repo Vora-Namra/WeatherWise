@@ -22,7 +22,7 @@ WeatherWise is a comprehensive weather app designed to provide you with detailed
 
 To run WeatherWise, you need a web browser with JavaScript enabled.
 
-### Installation
+## Installation
 
 1. Clone the repository:
     ```sh
@@ -36,7 +36,7 @@ To run WeatherWise, you need a web browser with JavaScript enabled.
 
 3. Open `index.html` in your web browser.
 
-### Usage
+## Usage
 
 1. **Grant Location Access**: Upon opening the app, you will be prompted to grant access to your location. This allows WeatherWise to fetch real-time weather data for your current location.
 
@@ -44,14 +44,5 @@ To run WeatherWise, you need a web browser with JavaScript enabled.
 
 3. **Search for Specific Locations**: Use the search bar to enter the name of a city or area and view the weather details for that location.
 
-## Contributing
-
-Contributions are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Commit your changes (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 
